@@ -1,2 +1,2 @@
 # DeepaSijoyKochery_DSA_LabDSA
-Lab 3 on DSA 2 problem statement 
+Lab 3 on DSA 2, problem statement 
